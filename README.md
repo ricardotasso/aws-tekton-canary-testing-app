@@ -1,17 +1,18 @@
-## My Project
+# aws-tekton-canary-testing-app
 
-TODO: Fill this README out!
+This repository contains the demo backend microservice used in the blog post Canary Testing with AWS App Mesh and Open Source Tekton.
 
-Be sure to:
+The code provided is for demo purposes only and not ready for production.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Getting started
+
+Please refer to the demo section of the blog post mentioned above and follow the outlined instructions. 
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more 
+information.
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+This code is licensed under the MIT-0 License. See the LICENSE file.
