@@ -10,8 +10,8 @@ app.use(AWSXRay.express.openSegment('Product-Detail-V1'));
 app.get("/catalogDetail", (req, res, next) => {
   console.log("Catalog Detail Version 2 Get Request Successful");
   res.json({
-             "version":"2",
-             "vendors":[ "ABC.com", "XYZ.com", "PQR.com", "ZOP.com", "WXD.com", "TQW.com"]
+             "version":"3",
+             "vendors":[ "ABC.com", "XYZ.com", "PQR.com", "ZOP.com", "Switzerland.com" , "WXD.com", "TQW.com"]
               } )
 });
 
